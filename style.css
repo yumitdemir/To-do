@@ -1,0 +1,11 @@
+.edit{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 91%;
+    cursor: pointer;
+}
+
+.form-check-label{
+    cursor: pointer;
+}
